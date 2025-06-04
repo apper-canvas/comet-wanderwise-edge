@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@email.com",
+    "preferences": {
+      "travelStyle": "adventure",
+      "budgetRange": "medium",
+      "accommodationType": "hotel",
+      "interests": ["culture", "nature", "food", "photography"]
+    },
+    "trips": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "id": "2",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@email.com",
+    "preferences": {
+      "travelStyle": "cultural",
+      "budgetRange": "high",
+      "accommodationType": "boutique",
+      "interests": ["art", "museums", "architecture", "history"]
+    },
+    "trips": ["1", "4", "10"]
+  },
+  {
+    "id": "3",
+    "name": "Mike Rodriguez",
+    "email": "mike.rodriguez@email.com",
+    "preferences": {
+      "travelStyle": "relaxation",
+      "budgetRange": "medium",
+      "accommodationType": "resort",
+      "interests": ["beaches", "wellness", "spa", "sunset"]
+    },
+    "trips": ["3"]
+  },
+  {
+    "id": "4",
+    "name": "Emma Wilson",
+    "email": "emma.wilson@email.com",
+    "preferences": {
+      "travelStyle": "adventure",
+      "budgetRange": "low",
+      "accommodationType": "hostel",
+      "interests": ["hiking", "backpacking", "local_culture", "budget_travel"]
+    },
+    "trips": ["3"]
+  },
+  {
+    "id": "5",
+    "name": "Raj Patel",
+    "email": "raj.patel@email.com",
+    "preferences": {
+      "travelStyle": "cultural",
+      "budgetRange": "medium",
+      "accommodationType": "traditional",
+      "interests": ["heritage_sites", "local_cuisine", "festivals", "crafts"]
+    },
+    "trips": ["5"]
+  },
+  {
+    "id": "6",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@email.com",
+    "preferences": {
+      "travelStyle": "nature",
+      "budgetRange": "high",
+      "accommodationType": "eco_lodge",
+      "interests": ["wildlife", "conservation", "photography", "hiking"]
+    },
+    "trips": ["6"]
+  },
+  {
+    "id": "7",
+    "name": "David Kim",
+    "email": "david.kim@email.com",
+    "preferences": {
+      "travelStyle": "adventure",
+      "budgetRange": "high",
+      "accommodationType": "luxury",
+      "interests": ["extreme_sports", "skiing", "mountaineering", "adrenaline"]
+    },
+    "trips": ["6"]
+  },
+  {
+    "id": "8",
+    "name": "Sophie Martinez",
+    "email": "sophie.martinez@email.com",
+    "preferences": {
+      "travelStyle": "beach",
+      "budgetRange": "medium",
+      "accommodationType": "beachfront",
+      "interests": ["water_sports", "diving", "snorkeling", "island_hopping"]
+    },
+    "trips": ["7"]
+  },
+  {
+    "id": "9",
+    "name": "Chris Anderson",
+    "email": "chris.anderson@email.com",
+    "preferences": {
+      "travelStyle": "road_trip",
+      "budgetRange": "medium",
+      "accommodationType": "camping",
+      "interests": ["scenic_drives", "national_parks", "camping", "stargazing"]
+    },
+    "trips": ["8"]
+  },
+  {
+    "id": "10",
+    "name": "Maya Singh",
+    "email": "maya.singh@email.com",
+    "preferences": {
+      "travelStyle": "wellness",
+      "budgetRange": "high",
+      "accommodationType": "spa_resort",
+      "interests": ["yoga", "meditation", "wellness", "healthy_cuisine"]
+    },
+    "trips": ["8"]
+  },
+  {
+    "id": "11",
+    "name": "Jordan Lee",
+    "email": "jordan.lee@email.com",
+    "preferences": {
+      "travelStyle": "adventure",
+      "budgetRange": "medium",
+      "accommodationType": "mountain_lodge",
+      "interests": ["trekking", "altitude_hiking", "ancient_cultures", "archaeology"]
+    },
+    "trips": ["9"]
+  },
+  {
+    "id": "12",
+    "name": "Anna Kowalski",
+    "email": "anna.kowalski@email.com",
+    "preferences": {
+      "travelStyle": "island_hopping",
+      "budgetRange": "high",
+      "accommodationType": "boutique_hotel",
+      "interests": ["sailing", "greek_mythology", "wine_tasting", "sunset_cruises"]
+    },
+    "trips": ["10"]
+  },
+  {
+    "id": "13",
+    "name": "Tom Baker",
+    "email": "tom.baker@email.com",
+    "preferences": {
+      "travelStyle": "cultural",
+      "budgetRange": "medium",
+      "accommodationType": "traditional_villa",
+      "interests": ["ancient_history", "archaeology", "local_wines", "traditional_cuisine"]
+    },
+    "trips": ["10"]
+  }
+]

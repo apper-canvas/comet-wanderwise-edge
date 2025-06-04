@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "date": "2024-05-15",
+    "activities": ["1", "2", "3"],
+    "notes": "Arrival day in Paris - take it easy and explore nearby areas"
+  },
+  {
+    "id": "2",
+    "tripId": "1", 
+    "date": "2024-05-16",
+    "activities": ["4", "5", "6"],
+    "notes": "Full day exploring Paris landmarks"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "date": "2024-05-17",
+    "activities": ["7", "8"],
+    "notes": "Travel day to Rome via train"
+  },
+  {
+    "id": "4",
+    "tripId": "2",
+    "date": "2024-06-10",
+    "activities": ["9", "10", "11"],
+    "notes": "First day in Tokyo - jet lag recovery and local exploration"
+  },
+  {
+    "id": "5",
+    "tripId": "2",
+    "date": "2024-06-11",
+    "activities": ["12", "13", "14"],
+    "notes": "Traditional Tokyo experience - temples and culture"
+  },
+  {
+    "id": "6",
+    "tripId": "3",
+    "date": "2024-07-20",
+    "activities": ["15", "16"],
+    "notes": "Arrival in Bali - settle in Ubud area"
+  },
+  {
+    "id": "7",
+    "tripId": "3",
+    "date": "2024-07-21",
+    "activities": ["17", "18", "19"],
+    "notes": "Ubud cultural immersion day"
+  },
+  {
+    "id": "8",
+    "tripId": "4",
+    "date": "2024-03-10",
+    "activities": ["20", "21"],
+    "notes": "Arrival in Reykjavik and city exploration"
+  },
+  {
+    "id": "9",
+    "tripId": "4",
+    "date": "2024-03-11",
+    "activities": ["22", "23", "24"],
+    "notes": "Golden Circle tour - geysers and waterfalls"
+  },
+  {
+    "id": "10",
+    "tripId": "5",
+    "date": "2024-08-15",
+    "activities": ["25", "26"],
+    "notes": "Marrakech arrival and medina exploration"
+  },
+  {
+    "id": "11",
+    "tripId": "6",
+    "date": "2024-09-05",
+    "activities": ["27", "28"],
+    "notes": "Queenstown arrival and adventure planning"
+  },
+  {
+    "id": "12",
+    "tripId": "7",
+    "date": "2024-04-01",
+    "activities": ["29", "30"],
+    "notes": "Phuket beach day and local cuisine"
+  },
+  {
+    "id": "13",
+    "tripId": "8",
+    "date": "2024-06-25",
+    "activities": ["31", "32"],
+    "notes": "Calgary to Banff National Park"
+  },
+  {
+    "id": "14",
+    "tripId": "9",
+    "date": "2024-10-10",
+    "activities": ["33", "34"],
+    "notes": "Cusco acclimatization day"
+  },
+  {
+    "id": "15",
+    "tripId": "10",
+    "date": "2024-05-01",
+    "activities": ["35", "36"],
+    "notes": "Santorini arrival and sunset viewing"
+  }
+]

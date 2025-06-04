@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1",
+    "name": "Airport Transfer to Hotel",
+    "location": {
+      "name": "Charles de Gaulle Airport to Marais District",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "time": "14:30",
+    "duration": 60,
+    "cost": 45,
+    "category": "transport"
+  },
+  {
+    "id": "2",
+    "name": "Evening Seine River Cruise",
+    "location": {
+      "name": "Pont Neuf, Paris",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "time": "19:00",
+    "duration": 120,
+    "cost": 35,
+    "category": "sightseeing"
+  },
+  {
+    "id": "3",
+    "name": "Dinner at Local Bistro",
+    "location": {
+      "name": "Le Comptoir du Relais, Paris",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "time": "21:30",
+    "duration": 90,
+    "cost": 65,
+    "category": "food"
+  },
+  {
+    "id": "4",
+    "name": "Louvre Museum Visit",
+    "location": {
+      "name": "Louvre Museum, Paris",
+      "lat": 48.8606,
+      "lng": 2.3376
+    },
+    "time": "09:00",
+    "duration": 180,
+    "cost": 17,
+    "category": "sightseeing"
+  },
+  {
+    "id": "5",
+    "name": "Lunch at Café de Flore",
+    "location": {
+      "name": "Café de Flore, Saint-Germain",
+      "lat": 48.8543,
+      "lng": 2.3334
+    },
+    "time": "13:00",
+    "duration": 90,
+    "cost": 40,
+    "category": "food"
+  },
+  {
+    "id": "6",
+    "name": "Eiffel Tower Evening Visit",
+    "location": {
+      "name": "Eiffel Tower, Paris",
+      "lat": 48.8584,
+      "lng": 2.2945
+    },
+    "time": "18:00",
+    "duration": 120,
+    "cost": 25,
+    "category": "sightseeing"
+  },
+  {
+    "id": "7",
+    "name": "Train to Rome",
+    "location": {
+      "name": "Gare de Lyon, Paris",
+      "lat": 48.8447,
+      "lng": 2.3740
+    },
+    "time": "07:30",
+    "duration": 660,
+    "cost": 190,
+    "category": "transport"
+  },
+  {
+    "id": "8",
+    "name": "Rome Hotel Check-in",
+    "location": {
+      "name": "Trastevere District, Rome",
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "time": "18:30",
+    "duration": 30,
+    "cost": 0,
+    "category": "accommodation"
+  },
+  {
+    "id": "9",
+    "name": "Arrival at Narita Airport",
+    "location": {
+      "name": "Narita International Airport, Tokyo",
+      "lat": 35.7720,
+      "lng": 140.3929
+    },
+    "time": "16:00",
+    "duration": 60,
+    "cost": 0,
+    "category": "transport"
+  },
+  {
+    "id": "10",
+    "name": "Shibuya Crossing Experience",
+    "location": {
+      "name": "Shibuya Crossing, Tokyo",
+      "lat": 35.6598,
+      "lng": 139.7006
+    },
+    "time": "19:00",
+    "duration": 60,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "11",
+    "name": "Ramen Dinner in Shibuya",
+    "location": {
+      "name": "Ichiran Ramen, Shibuya",
+      "lat": 35.6598,
+      "lng": 139.7006
+    },
+    "time": "20:30",
+    "duration": 45,
+    "cost": 12,
+    "category": "food"
+  },
+  {
+    "id": "12",
+    "name": "Senso-ji Temple Visit",
+    "location": {
+      "name": "Senso-ji Temple, Asakusa",
+      "lat": 35.7148,
+      "lng": 139.7967
+    },
+    "time": "09:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "13",
+    "name": "Traditional Tea Ceremony",
+    "location": {
+      "name": "Urasenke Tea House, Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "time": "14:00",
+    "duration": 90,
+    "cost": 35,
+    "category": "sightseeing"
+  },
+  {
+    "id": "14",
+    "name": "Sushi Making Class",
+    "location": {
+      "name": "Tokyo Sushi Academy",
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "time": "17:00",
+    "duration": 150,
+    "cost": 80,
+    "category": "food"
+  },
+  {
+    "id": "15",
+    "name": "Ubud Market Exploration",
+    "location": {
+      "name": "Ubud Traditional Market, Bali",
+      "lat": -8.5069,
+      "lng": 115.2625
+    },
+    "time": "08:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "16",
+    "name": "Balinese Massage Session",
+    "location": {
+      "name": "Karsa Spa, Ubud",
+      "lat": -8.5069,
+      "lng": 115.2625
+    },
+    "time": "16:00",
+    "duration": 90,
+    "cost": 45,
+    "category": "sightseeing"
+  },
+  {
+    "id": "17",
+    "name": "Rice Terrace Sunrise Tour",
+    "location": {
+      "name": "Tegallalang Rice Terraces, Ubud",
+      "lat": -8.4305,
+      "lng": 115.2849
+    },
+    "time": "05:30",
+    "duration": 180,
+    "cost": 25,
+    "category": "sightseeing"
+  },
+  {
+    "id": "18",
+    "name": "Cooking Class with Local Family",
+    "location": {
+      "name": "Paon Bali Cooking Class, Ubud",
+      "lat": -8.5069,
+      "lng": 115.2625
+    },
+    "time": "10:00",
+    "duration": 240,
+    "cost": 35,
+    "category": "food"
+  },
+  {
+    "id": "19",
+    "name": "Monkey Forest Sanctuary Visit",
+    "location": {
+      "name": "Sacred Monkey Forest, Ubud",
+      "lat": -8.5167,
+      "lng": 115.2611
+    },
+    "time": "15:30",
+    "duration": 60,
+    "cost": 5,
+    "category": "sightseeing"
+  },
+  {
+    "id": "20",
+    "name": "Blue Lagoon Geothermal Spa",
+    "location": {
+      "name": "Blue Lagoon, Grindavik",
+      "lat": 63.8804,
+      "lng": -22.4495
+    },
+    "time": "14:00",
+    "duration": 180,
+    "cost": 65,
+    "category": "sightseeing"
+  },
+  {
+    "id": "21",
+    "name": "Reykjavik City Walking Tour",
+    "location": {
+      "name": "Hallgrimskirkja Church, Reykjavik",
+      "lat": 64.1466,
+      "lng": -21.9426
+    },
+    "time": "18:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "22",
+    "name": "Geysir Geothermal Area",
+    "location": {
+      "name": "Geysir, Golden Circle",
+      "lat": 64.3103,
+      "lng": -20.3003
+    },
+    "time": "10:00",
+    "duration": 90,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "23",
+    "name": "Gullfoss Waterfall",
+    "location": {
+      "name": "Gullfoss Waterfall, Iceland",
+      "lat": 64.3271,
+      "lng": -20.1228
+    },
+    "time": "12:00",
+    "duration": 60,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "24",
+    "name": "Traditional Icelandic Dinner",
+    "location": {
+      "name": "Fridheimar Greenhouse Restaurant",
+      "lat": 64.1265,
+      "lng": -20.8782
+    },
+    "time": "18:30",
+    "duration": 120,
+    "cost": 85,
+    "category": "food"
+  },
+  {
+    "id": "25",
+    "name": "Jemaa el-Fnaa Square Evening",
+    "location": {
+      "name": "Jemaa el-Fnaa, Marrakech",
+      "lat": 31.6259,
+      "lng": -7.9893
+    },
+    "time": "19:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "26",
+    "name": "Marrakech Medina Walking Tour",
+    "location": {
+      "name": "Marrakech Medina, Morocco",
+      "lat": 31.6295,
+      "lng": -7.9811
+    },
+    "time": "09:30",
+    "duration": 180,
+    "cost": 20,
+    "category": "sightseeing"
+  },
+  {
+    "id": "27",
+    "name": "Skyline Gondola Ride",
+    "location": {
+      "name": "Skyline Gondola, Queenstown",
+      "lat": -45.0302,
+      "lng": 168.6626
+    },
+    "time": "10:00",
+    "duration": 90,
+    "cost": 45,
+    "category": "sightseeing"
+  },
+  {
+    "id": "28",
+    "name": "Fergburger Late Night Meal",
+    "location": {
+      "name": "Fergburger, Queenstown",
+      "lat": -45.0312,
+      "lng": 168.6626
+    },
+    "time": "21:00",
+    "duration": 45,
+    "cost": 18,
+    "category": "food"
+  },
+  {
+    "id": "29",
+    "name": "Patong Beach Relaxation",
+    "location": {
+      "name": "Patong Beach, Phuket",
+      "lat": 7.8804,
+      "lng": 98.2958
+    },
+    "time": "11:00",
+    "duration": 240,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "30",
+    "name": "Thai Massage on Beach",
+    "location": {
+      "name": "Patong Beach, Phuket",
+      "lat": 7.8804,
+      "lng": 98.2958
+    },
+    "time": "16:00",
+    "duration": 60,
+    "cost": 15,
+    "category": "sightseeing"
+  },
+  {
+    "id": "31",
+    "name": "Lake Louise Canoe Rental",
+    "location": {
+      "name": "Lake Louise, Banff",
+      "lat": 51.4254,
+      "lng": -116.1773
+    },
+    "time": "09:00",
+    "duration": 120,
+    "cost": 55,
+    "category": "sightseeing"
+  },
+  {
+    "id": "32",
+    "name": "Banff Hot Springs",
+    "location": {
+      "name": "Banff Upper Hot Springs",
+      "lat": 51.1784,
+      "lng": -115.5708
+    },
+    "time": "15:00",
+    "duration": 120,
+    "cost": 28,
+    "category": "sightseeing"
+  },
+  {
+    "id": "33",
+    "name": "San Pedro Market Tour",
+    "location": {
+      "name": "San Pedro Market, Cusco",
+      "lat": -13.5226,
+      "lng": -71.9686
+    },
+    "time": "10:00",
+    "duration": 90,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "34",
+    "name": "Cusco Cathedral Visit",
+    "location": {
+      "name": "Cusco Cathedral, Peru",
+      "lat": -13.5164,
+      "lng": -71.9785
+    },
+    "time": "14:00",
+    "duration": 60,
+    "cost": 8,
+    "category": "sightseeing"
+  },
+  {
+    "id": "35",
+    "name": "Oia Sunset Viewing",
+    "location": {
+      "name": "Oia Village, Santorini",
+      "lat": 36.4618,
+      "lng": 25.3753
+    },
+    "time": "19:30",
+    "duration": 90,
+    "cost": 0,
+    "category": "sightseeing"
+  },
+  {
+    "id": "36",
+    "name": "Wine Tasting at Local Winery",
+    "location": {
+      "name": "Santo Wines, Santorini",
+      "lat": 36.3932,
+      "lng": 25.4615
+    },
+    "time": "16:00",
+    "duration": 120,
+    "cost": 35,
+    "category": "food"
+  }
+]

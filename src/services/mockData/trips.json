@@ -1,0 +1,245 @@
+[
+  {
+    "id": "1",
+    "name": "European Adventure",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-25",
+    "destinations": ["Paris", "Rome", "Barcelona"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "2", "name": "Sarah Chen", "role": "participant" }
+    ],
+    "budget": {
+      "total": 3500,
+      "spent": 1200,
+      "categories": {
+        "accommodation": 800,
+        "food": 600,
+        "transport": 500,
+        "activities": 300
+      }
+    },
+    "status": "upcoming",
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "2", 
+    "name": "Tokyo City Explorer",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-18",
+    "destinations": ["Tokyo", "Kyoto", "Osaka"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" }
+    ],
+    "budget": {
+      "total": 2800,
+      "spent": 0,
+      "categories": {
+        "accommodation": 700,
+        "food": 800,
+        "transport": 600,
+        "activities": 400
+      }
+    },
+    "status": "upcoming",
+    "duration": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Bali Tropical Escape",
+    "startDate": "2024-07-20",
+    "endDate": "2024-07-30",
+    "destinations": ["Ubud", "Seminyak", "Canggu"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "3", "name": "Mike Rodriguez", "role": "participant" },
+      { "id": "4", "name": "Emma Wilson", "role": "participant" }
+    ],
+    "budget": {
+      "total": 2200,
+      "spent": 0,
+      "categories": {
+        "accommodation": 600,
+        "food": 500,
+        "transport": 400,
+        "activities": 450
+      }
+    },
+    "status": "upcoming",
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Iceland Road Trip",
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-18",
+    "destinations": ["Reykjavik", "Golden Circle", "South Coast"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "2", "name": "Sarah Chen", "role": "participant" }
+    ],
+    "budget": {
+      "total": 3200,
+      "spent": 3200,
+      "categories": {
+        "accommodation": 900,
+        "food": 700,
+        "transport": 800,
+        "activities": 500
+      }
+    },
+    "status": "completed",
+    "duration": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Morocco Desert Adventure",
+    "startDate": "2024-08-15",
+    "endDate": "2024-08-25",
+    "destinations": ["Marrakech", "Sahara Desert", "Fez"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "5", "name": "Raj Patel", "role": "participant" }
+    ],
+    "budget": {
+      "total": 2500,
+      "spent": 0,
+      "categories": {
+        "accommodation": 600,
+        "food": 400,
+        "transport": 700,
+        "activities": 500
+      }
+    },
+    "status": "planning",
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73c6e?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "6",
+    "name": "New Zealand South Island",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-20",
+    "destinations": ["Queenstown", "Milford Sound", "Christchurch"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "6", "name": "Lisa Thompson", "role": "participant" },
+      { "id": "7", "name": "David Kim", "role": "participant" }
+    ],
+    "budget": {
+      "total": 4500,
+      "spent": 0,
+      "categories": {
+        "accommodation": 1200,
+        "food": 1000,
+        "transport": 1300,
+        "activities": 800
+      }
+    },
+    "status": "upcoming",
+    "duration": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "7",
+    "name": "Thailand Island Hopping",
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-12",
+    "destinations": ["Phuket", "Koh Phi Phi", "Koh Samui"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "8", "name": "Sophie Martinez", "role": "participant" }
+    ],
+    "budget": {
+      "total": 1800,
+      "spent": 1650,
+      "categories": {
+        "accommodation": 500,
+        "food": 400,
+        "transport": 450,
+        "activities": 300
+      }
+    },
+    "status": "completed",
+    "duration": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "8",
+    "name": "Canadian Rockies Explorer",
+    "startDate": "2024-06-25",
+    "endDate": "2024-07-05",
+    "destinations": ["Calgary", "Banff", "Jasper"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "9", "name": "Chris Anderson", "role": "participant" },
+      { "id": "10", "name": "Maya Singh", "role": "participant" }
+    ],
+    "budget": {
+      "total": 3000,
+      "spent": 0,
+      "categories": {
+        "accommodation": 800,
+        "food": 600,
+        "transport": 900,
+        "activities": 500
+      }
+    },
+    "status": "upcoming",
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "9",
+    "name": "Peru Machu Picchu Trek",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-20",
+    "destinations": ["Cusco", "Sacred Valley", "Machu Picchu"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "11", "name": "Jordan Lee", "role": "participant" }
+    ],
+    "budget": {
+      "total": 2700,
+      "spent": 0,
+      "categories": {
+        "accommodation": 600,
+        "food": 500,
+        "transport": 800,
+        "activities": 600
+      }
+    },
+    "status": "planning",
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?ixlib=rb-4.0.3&w=400&q=80"
+  },
+  {
+    "id": "10",
+    "name": "Greek Islands Odyssey",
+    "startDate": "2024-05-01",
+    "endDate": "2024-05-14",
+    "destinations": ["Santorini", "Mykonos", "Crete"],
+    "travelers": [
+      { "id": "1", "name": "Alex Johnson", "role": "organizer" },
+      { "id": "12", "name": "Anna Kowalski", "role": "participant" },
+      { "id": "13", "name": "Tom Baker", "role": "participant" }
+    ],
+    "budget": {
+      "total": 3800,
+      "spent": 200,
+      "categories": {
+        "accommodation": 1000,
+        "food": 800,
+        "transport": 900,
+        "activities": 700
+      }
+    },
+    "status": "upcoming",
+    "duration": 13,
+    "imageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?ixlib=rb-4.0.3&w=400&q=80"
+  }
+]
